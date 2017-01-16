@@ -3,7 +3,7 @@
 ###The most comprehensive TODO list I could design, with short-term priorities, ongoing priorities, and long-term priorities
 ---
 ##SHORT-TERM
- - Finish Chemistry lab
+ - ~~Finish Chemistry lab~~
  - Write CSLC 2017 app
  - Finish both Physics labs
  - Finish all Physics STSEs
